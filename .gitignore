@@ -1,0 +1,5 @@
+# Damn Macs
+.DS_Store
+
+# Executable
+ConcurrentGo
